@@ -66641,12 +66641,11 @@ VG(){var s=this.w
 if(s!=null){A.acL(s)
 this.w=null}},
 ui(){var s,r,q=this
-q.guM()
-s=q.gk5()
+if(q.guM().e){s=q.gk5()
 r=q.f
 if(s-r<=0){s=q.c.d.gor()
 s.c.push(q)
-s.Ie()}},
+s.Ie()}}},
 ng(){var s,r,q,p,o=this,n=o.e
 if(n==null)return
 s=o.ay
@@ -72848,7 +72847,7 @@ i=j[2]
 h=[400*d/(d+27.13),400*c/(c+27.13),400*i/(i+27.13)]
 return new A.a6f(l,(40*h[0]+20*h[1]+h[2])/20*k,k,k,a1,1,q,m,A.BB(m,0.25),1.48+e)})
 s($,"aES","ob",()=>{var q=null
-return new A.CA(q,q,"chosenCategoriesProvider",q,q,!0)})
+return new A.CA(q,q,"chosenCategoriesProvider",q,q,!1)})
 s($,"aET","Qd",()=>{var q=null
 return new A.D9(q,q,"dataProvider",q,q,!0)})
 s($,"aF4","Qe",()=>{var q=null
