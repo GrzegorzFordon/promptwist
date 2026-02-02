@@ -3,9 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "37aa15431f8f8122fdbbc862bbdacdfd",
-"assets/AssetManifest.bin.json": "be9e3432c38f4d2d55fa8a103d2e2981",
+const RESOURCES = {"assets/AssetManifest.bin": "0a91aa12b9a3d528081ab1b060ee5239",
+"assets/AssetManifest.bin.json": "54156ab2cf98afda941f28f5c7caf485",
 "assets/assets/data.json": "2332f005a7cfb7f230fb0add4b6b913d",
+"assets/assets/google_fonts/CaveatBrush-Regular.ttf": "91a4b7550bea09847dec3314935df7fa",
+"assets/assets/google_fonts/RobotoMono-VariableFont_wght.ttf": "fb485e02e4ff69b803f1c4737f753e4e",
 "assets/FontManifest.json": "c75353fbeebcd695f0652f190c83d46c",
 "assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
 "assets/NOTICES": "642fed15962f3239dd8c6229648e942f",
@@ -28,14 +30,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "37aa15431f8f8122fdbbc862bbdacdfd
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "11145b4b70799f4d4ab42db1ba1db73e",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "d8aa20103d0eaa7f6bd6f5f191fa403b",
+"flutter_bootstrap.js": "f316884fcd1aa6e6c40776cd5b23c75e",
 "icons/Icon-192.png": "6cc17a8b6de766651cc39ae47680f8b7",
 "icons/Icon-512.png": "a06e75ca3e852aac4994bcc6156b2dfe",
 "icons/Icon-maskable-192.png": "6cc17a8b6de766651cc39ae47680f8b7",
 "icons/Icon-maskable-512.png": "a06e75ca3e852aac4994bcc6156b2dfe",
 "index.html": "109cf4bd84bd44a30981588c906d2bb6",
 "/": "109cf4bd84bd44a30981588c906d2bb6",
-"main.dart.js": "2e187589a1f4de98bfef11d43b1974f3",
+"main.dart.js": "4eb0cda8d733e572b0dc24849e18c876",
 "manifest.json": "64cf5b5ab7aaad33477299ac0d5ec7a0",
 "version.json": "f3dc4ee51f4b11344669a285d63d363b"};
 // The application shell files that are downloaded before a service worker can
