@@ -1,0 +1,38 @@
+name: promptwist
+description: "Get a Prompt."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: 
+  flutter_riverpod: 
+  riverpod_annotation: 
+  freezed_annotation: 
+  json_annotation: 
+  flutter_hooks: 
+  hooks_riverpod: 
+  material_symbols_icons:
+  window_manager: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+  riverpod_generator:
+  custom_lint:
+  build_runner:
+  riverpod_lint:
+  freezed: 
+  json_serializable: 
+  flutter_launcher_icons: 
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/google_fonts/
